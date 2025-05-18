@@ -19,19 +19,6 @@ With hands-on experience in data projects, backend development, and full-stack a
 
 ---
 
-📌 **My Projects**
-
-🔬 **[Breast Cancer Detection](https://github.com/VoidRatan/Breast-Cancer-detection)**  
-Machine learning model using Logistic Regression and Decision Trees with 90%+ accuracy.  
-`Python`, `NumPy`, `Pandas`, `Matplotlib`
-
-💰 **[Coin Audit – Live Crypto Tracker](https://coinaudit.netlify.app/)**  
-Web app to track real-time cryptocurrency prices in multiple currencies.  
-`React.js`, `Axios`, `JavaScript`, `CSS`
-
-🎓 **[Student Database System](https://github.com/VoidRatan/Student-Database)**  
-User-friendly student record system with secure login and efficient data handling.  
-`Python`, `MySQL`
 
 More on: **[My Portfolio](https://prasunratan.netlify.app/)**
 
