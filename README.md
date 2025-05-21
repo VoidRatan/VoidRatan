@@ -29,7 +29,6 @@ More on: **[My Portfolio](https://prasunratan.netlify.app/)**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VoidRatan&show_icons=true&theme=radical" alt="Prasun Ratan's GitHub stats" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VoidRatan&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
