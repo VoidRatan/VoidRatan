@@ -35,12 +35,10 @@ More on: **[My Portfolio](https://prasunratan.netlify.app/)**
 
 📫 **Connect With Me**
 
-- ✉️ Email: [prasunratan@gmail.com](mailto:prasunratan@gmail.com)  
+- ✉️ Email: [work.prasunratan@gmail.com](mailto:work.prasunratan@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/prasun-ratan](https://www.linkedin.com/in/prasun-ratan/)  
 - 🌐 Portfolio: [prasunratan.netlify.app](https://prasunratan.netlify.app/)  
 
 ---
-
-🔗 *“Code is the closest thing we have to magic.”*
 
 
